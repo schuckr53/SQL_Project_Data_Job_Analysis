@@ -106,7 +106,7 @@ LIMIT 5;
 
 The results presented the following:
 - **Large Margin of Demand:** SQL returned with a count of 7,291 job postings specifically listing the skill as a desired competency - a ~58% increase from the 2nd-highest ranked skill in demand, Microsoft Excel, at 4,611 posting mentions.
-- **To See, Speak, and Understand:** Coding languages SQL and Python are listed alongside visualization tools Tableau, PowerBI, and Excel, highlighting a demand for candidates to not only have the ability to navigate through data, but convey a story out of their findings.
+- **To See, Speak, and Understand:** Coding languages SQL and Python are listed alongside visualization tools Tableau, Power BI, and Excel, highlighting a demand for candidates to not only have the ability to navigate through data, but convey a story out of their findings.
 ### 4. Top Paying Skills Based on Salary
 I searched for and identified the top 25 skills that appear in the most highly-compensated data analyst roles, highlighting both niche and commonly-known competencies as they are found in available job postings.
 ```sql
