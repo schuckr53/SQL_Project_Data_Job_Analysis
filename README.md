@@ -84,7 +84,7 @@ ORDER BY
 
 The results presented the following:
 - **Recurring Competencies:** Every one of the highest paying jobs listed SQL with 90% listing both SQL and Python as the most commonly-included skill(s).
-- **Expanded Toolkit:** Alongside coding languages, the majority of these roles listed a form of data visualization tool (Tableau, PowerBI, etc.) in addition to cloud computing proficiencies (AWS, Azure).
+- **Expanded Toolkit:** Alongside coding languages, the majority of these roles listed a form of data visualization tool (Tableau, Power BI, etc.) in addition to cloud computing proficiencies (AWS, Azure).
 ### 3. Top Demanded Skills for Data Analysts
 I searched for and identified the 5 most sought-after skills for data analysts from the perspective of hiring companies, showcasing competencies that would serve potential data analysts well when building their resumes.
 ```sql
