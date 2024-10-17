@@ -2,13 +2,13 @@
 Taking a sample data set from Luke Barousse's SQL for Data Analytics course, I applied SQL querying to explore the different dimensions of data analyst jobs to understand more about hiring companies, role compensation, and related skills. 
 
 # Background
-My drive to better understand the world of analytics led me to Luke's course material for learning SQL and other tools related to data analysis. Fortunately, this same SQL course included access to a large set of data on analyst roles and the relevant skills in today's job market. I had the chance to dive deeper on the topic and gain insight into making my own data-driven decision on what a career in data anlytics might look like, as well as the means to pursue it!
+My drive to better understand the world of analytics led me to Luke's course material for learning SQL and other tools related to data analysis. Fortunately, this same SQL course included access to a large set of data on analyst roles and the relevant skills in today's job market. I had the chance to dive deeper on the topic and gain insight into making my own data-driven decision on what a career in data analytics might look like, as well as the means to pursue it!
 
 The information is drawn from Luke's [SQL Course](https://www.lukebarousse.com/sql). The education I gained here is incredibly helpful while providing me the opportunity to quantify this knowledge with certification and additional resources to use on my own.
 
 ### The course works through the following questions, drawn from the data provided:
 
-1. What are the top-paying data anlyst jobs?
+1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in-demand for data analysts?
 4. Which skills are associated with higher salaries?
@@ -18,7 +18,7 @@ The information is drawn from Luke's [SQL Course](https://www.lukebarousse.com/s
 I learned how to use the following tools to query this data, as part of the course:
 
 - **SQL**: the primary resource in manipulating the data - writing queries which highlighted the different aspects of data analyst roles across the multiple stages of this project, each building upon the other.
-- **PostGreSQL**: database management system that served to host the data I was provided through the course
+- **PostgreSQL**: database management system that served to host the data I was provided through the course
 - **Visual Studio Code**: the workplace for writing my SQL queries and troubleshooting errors in order to gleam the right data for answering my target questions
 - **Git & GitHub**: background tools that allowed for sharing my work and analysis, providing the ability for further collaboration with friends and the "data nerd" community at large.
 
@@ -128,7 +128,7 @@ LIMIT 25;
 ```
 
 The results presented the following:
-- **Unique Knowledge:** While there were some recognizeable skills I had found in my earlier queries, top-paying skills appear to be those that are sub-specialties of larger SaaS entities. Specifically, the skills I had become more familiar with as a result of Luke's SQL course or related content were rare in comparison to more novel tools under machine learning and online repository software.
+- **Unique Knowledge:** While there were some recognizable skills I had found in my earlier queries, top-paying skills appear to be those that are sub-specialties of larger SaaS entities. Specifically, the skills I had become more familiar with as a result of Luke's SQL course or related content were rare in comparison to more novel tools under machine learning and online repository software.
 ### 5. Most Optimal Skills to Learn
 Given our previous queries, I highlighted the 25 top skills that are in highest demand and are tied to high average salaried data analyst roles. This also included a concentration on remote positions with specified salaries (no null valued records in the database).
 ```sql
@@ -191,7 +191,7 @@ The results presented the following:
 - **Need for Database Management:** The demand counts of Oracle, SQL Server, NoSQL represent a need for analysts that can manage the inflow and retention of data within databases, utilizing a number of tools in order to do so.
 - **Visualization and Intelligence:** Analyst candidates would do well to maintain proficiency in business intelligence tools like Tableau and Looker, with respective demand counts of 230 and 49 - bridging the gap in understanding between hands-on analysts and interested stakeholders would appear to be an extremely desirable and well-compensated ability in the world of business intelligence.
 # What I Learned
-This course and related project instilled in me a greater understanding of the techincal aspects of querying data alongside the investigative practices of an analyst. I can move forward in my journey to apply for data analyst and related roles having achieved the following:
+This course and related project instilled in me a greater understanding of the technical aspects of querying data alongside the investigative practices of an analyst. I can move forward in my journey to apply for data analyst and related roles having achieved the following:
 - **Familiarity with SQL** - this coding language is foundational to my ability to manipulate raw data and gleam from it the insights necessary to pursue a career in data analytics. I can now comfortably draft my own queries using a number of different commands.
 - **Database Construction** - using PostgreSQL on my own, I have the framework to build my own databases with mock or live data that can be incorporated into my own research and resulting projects.
 - **Real-world Data Analysis** - utilized a real and comprehensive data set across multiple tables to convey insights that are applicable to my desire to become a data analyst, crafting a comprehensive report that outlines my own insights alongside my upgraded skillset.
@@ -203,7 +203,8 @@ This course and related project instilled in me a greater understanding of the t
 2. **Skills for Top-Paying Jobs**: SQL is an absolute must-have for prospective analyst work - even if it's not the most advanced skill found in desired candidates, it is definitely a foundational competency to have at your disposal to move into higher-paying roles within data analytics.
 3. **Most In-Demand Skills**: Desired skill families include both coding languages and visualization tools, with SQL being the standout pick for the most sought-after competency at ~58% higher demand count than the next-highest skill, Microsoft Excel.
 4. **Skills with Higher Salaries:** The highest average salaries within our data tracked with specialized or niche skills; proficiency with company or industry-specific tools would be grounds for exceptional compensation.
-5. **Optimal Skills for Job Market Value:** The job market is in demand for analysts (and their related roles) to have a suite of skills inclusive of database management (Oracle, NoSQL, PostreSQL), programming languages (like SQL and Python), and data visualization (Tableau, Power BI, Looker); gaining a familiarity and mastery of multiple skillsets would postion a potential candidate to be in high demand with the ability to be extremely well-compensated.
+5. **Optimal Skills for Job Market Value:** The job market is in demand for analysts (and their related roles) to have a suite of skills inclusive of database management (Oracle, NoSQL, PostgreSQL), programming languages (like SQL and Python), and data visualization (Tableau, Power BI, Looker); gaining a familiarity and mastery of multiple skillsets would position a potential candidate to be in high demand with the ability to be extremely well-compensated.
 
 ## My Take-away
-Both this course and project educated me in the means of utilizing SQL within a real-world environment to analyze data and gleam from it actionable insights. I'm immensely proud of the work I've done to both familiarize myself with a suite of skills foundational to a career path I'm pursuing as well as apply it practically to produce a tangible showcase of said abilities. I have the confidence to recognize that I am able to continue learning with the myriad resources avaialble and I'm excited to move forward with this journey.
+Both this course and project educated me in the means of utilizing SQL within a real-world environment to analyze data and gleam from it actionable insights. I'm immensely proud of the work I've done to both familiarize myself with a suite of skills foundational to a career path I'm pursuing as well as apply it practically to produce a tangible showcase of said abilities. I have the confidence to recognize that I am able to continue learning with the myriad resources available and I'm excited to move forward with this journey.
+
