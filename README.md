@@ -18,8 +18,8 @@ The information is drawn from Luke's [SQL Course](https://www.lukebarousse.com/s
 I learned how to use the following tools to query this data, as part of the course:
 
 - **SQL**: the primary resource in manipulating the data - writing queries which highlighted the different aspects of data analyst roles across the multiple stages of this project, each building upon the other.
-- **PostgreSQL**: database management system that served to host the data I was provided through the course
-- **Visual Studio Code**: the workplace for writing my SQL queries and troubleshooting errors in order to gleam the right data for answering my target questions
+- **PostgreSQL**: database management system that served to host the data I was provided through the course.
+- **Visual Studio Code**: the workplace for writing my SQL queries and troubleshooting errors in order to gleam the right data for answering my target questions.
 - **Git & GitHub**: background tools that allowed for sharing my work and analysis, providing the ability for further collaboration with friends and the "data nerd" community at large.
 
 # The Analysis
