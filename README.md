@@ -49,7 +49,7 @@ LIMIT 10;
 
 - **Remote Availability:** Highly-compensated remote data analyst roles are still available as of Q4 2023, even after a global return-to-office mandate many companies are implementing following the COVID-19 pandemic.
 - **Wide Salary Range:** The top 3 roles by compensation are titled "Data Analyst", "Director of Analytics", and "Associate Director - Data Insights". The posted salaries of these roles, respectively, are $650,000, $336,500, and $255,829 - an incredibly wide range with Mantys (the company tied to the Data Analyst posting) paying ~93% more for an entry-to-mid-level position over a senior management role with Meta (the company tied to the Director of Analytics role).
-- **Desirable Compensation:** The median annual salary, based on these 10 results, was $224,711 / year - well above the median household income in 2023 of $59,540 / year (ref. [Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2024/median-weekly-earnings-of-full-time-workers-were-1145-in-the-fourth-quarter-of-2023.htm)). Data analyst roles (and related positions) are an attractive job family to pursue.
+- **Desirable Compensation:** The median annual salary, based on these 10 results, was $224,711 / year - well above the 2023 median individual salary of $59,540 / year (ref. [Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2024/median-weekly-earnings-of-full-time-workers-were-1145-in-the-fourth-quarter-of-2023.htm)). Data analyst roles (and related positions) are an attractive job family to pursue.
 
 ### 2. Top Paying Skills for Data Analysts
 I searched for and identified the 10 most highly-compensated skills that are tied to data analyst roles.
