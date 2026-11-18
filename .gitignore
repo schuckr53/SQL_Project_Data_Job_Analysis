@@ -1,0 +1,10 @@
+/.vscode
+/csv_files-20240901T024558Z-001
+/sql_load-20240901T024602Z-001
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+csv_files/
+*.csv
+*.code-workspace
